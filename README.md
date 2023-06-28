@@ -11,4 +11,4 @@ Create your own logic gates:
   
 Working with Vivado 2019.2
   
-Import th overlay to a Jupyter notebook to generate truth tables.
+Import the overlay to a Jupyter notebook to generate truth tables.
